@@ -1,0 +1,83 @@
+--- Employee ID Directory ---
+1. Insert Employee ID
+2. Inorder Traversal
+3. Find Predecessor and Successor
+4. Preorder Traversal
+5. Exit
+Enter choice: 1
+Enter Employee ID: 1
+
+--- Employee ID Directory ---
+1. Insert Employee ID
+2. Inorder Traversal
+3. Find Predecessor and Successor
+4. Preorder Traversal
+5. Exit
+Enter choice: 1
+Enter Employee ID: 2
+
+--- Employee ID Directory ---
+1. Insert Employee ID
+2. Inorder Traversal
+3. Find Predecessor and Successor
+4. Preorder Traversal
+5. Exit
+Enter choice: 1
+Enter Employee ID: 3
+
+--- Employee ID Directory ---
+1. Insert Employee ID
+2. Inorder Traversal
+3. Find Predecessor and Successor
+4. Preorder Traversal
+5. Exit
+Enter choice: 1
+Enter Employee ID: 6
+
+--- Employee ID Directory ---
+1. Insert Employee ID
+2. Inorder Traversal
+3. Find Predecessor and Successor
+4. Preorder Traversal
+5. Exit
+Enter choice: 1
+Enter Employee ID: 02
+Duplicate Employee ID!
+
+--- Employee ID Directory ---
+1. Insert Employee ID
+2. Inorder Traversal
+3. Find Predecessor and Successor
+4. Preorder Traversal
+5. Exit
+Enter choice: 2
+Inorder Traversal: 1 2 3 6
+
+--- Employee ID Directory ---
+1. Insert Employee ID
+2. Inorder Traversal
+3. Find Predecessor and Successor
+4. Preorder Traversal
+5. Exit
+Enter choice: 3
+Enter Employee ID: 2
+Predecessor: 1
+Successor: 3
+
+--- Employee ID Directory ---
+1. Insert Employee ID
+2. Inorder Traversal
+3. Find Predecessor and Successor
+4. Preorder Traversal
+5. Exit
+Enter choice: 4
+Preorder Traversal: 1 2 3 6
+
+--- Employee ID Directory ---
+1. Insert Employee ID
+2. Inorder Traversal
+3. Find Predecessor and Successor
+4. Preorder Traversal
+5. Exit
+Enter choice: 5
+Program Ended.
