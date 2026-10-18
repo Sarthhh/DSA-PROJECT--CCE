@@ -1,0 +1,45 @@
+-- Mobile Contact Management ---
+1. Add Contact
+2. Display Contacts
+3. Search Contact
+4. Exit
+Enter Choice: 1
+Enter Name: sarthak
+Enter Phone: 5485775245
+Contact Added!
+
+--- Mobile Contact Management ---
+1. Add Contact
+2. Display Contacts
+3. Search Contact
+4. Exit
+Enter Choice: 2
+Name: sarthak | Phone: 5485775245
+
+--- Mobile Contact Management ---
+1. Add Contact
+2. Display Contacts
+3. Search Contact
+4. Exit
+Enter Choice: 3
+Enter Name: sarthak
+Contact Found!
+Name: sarthak | Phone: 5485775245
+
+--- Mobile Contact Management ---
+1. Add Contact
+2. Display Contacts
+3. Search Contact
+4. Exit
+Enter Choice: 3
+Enter Name: sarthak
+Contact Found!
+Name: sarthak | Phone: 5485775245
+
+--- Mobile Contact Management ---
+1. Add Contact
+2. Display Contacts
+3. Search Contact
+4. Exit
+Enter Choice: 4
+Thank You!
