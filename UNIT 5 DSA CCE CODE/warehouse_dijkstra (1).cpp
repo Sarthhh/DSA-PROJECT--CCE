@@ -1,13 +1,4 @@
-/*
- * Warehouse Navigation using Dijkstra's Algorithm (C++)
- * -----------------------------------------------------
- * Builds a weighted graph of a warehouse (charging station, junctions,
- * storage locations) and finds the shortest route from the charging
- * station to a selected storage location.
- *
- * Compile: g++ -std=c++17 -o warehouse warehouse_dijkstra.cpp
- * Run:     ./warehouse
- */
+
 
 #include <algorithm>
 #include <iostream>
